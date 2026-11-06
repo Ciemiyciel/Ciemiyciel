@@ -19,6 +19,7 @@ Mathematics and Data Analysis graduate from Warsaw University of Technology with
 Classifying products from shopping receipts using OCR and machine learning. Implemented text processing and an MLP-based classification pipeline.
 
 Technologies: Python, Tesseract OCR, Machine Learning
+
 [View the project](https://github.com/Ciemiyciel/receipt-ml-project)
 ### Weather Data Pipeline
 
