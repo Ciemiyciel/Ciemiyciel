@@ -21,6 +21,7 @@ Classifying products from shopping receipts using OCR and machine learning. Impl
 Technologies: Python, Tesseract OCR, Machine Learning
 
 [View the project](https://github.com/Ciemiyciel/receipt-ml-project)
+
 ### Weather Data Pipeline
 
 Built a Python ETL pipeline that collects hourly historical weather data for Warsaw, Kraków, and Gdańsk, transforms and validates it with PySpark, and loads it into PostgreSQL. Airflow orchestrates the workflow in Docker Compose; pytest tests and GitHub Actions CI check the project.
