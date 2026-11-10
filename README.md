@@ -14,7 +14,7 @@ Mathematics and Data Analysis graduate from Warsaw University of Technology with
 
 ## Selected Projects
 
-###Receipt Product Classification
+### Receipt Product Classification
 
 Classifying products from shopping receipts using OCR and machine learning. Implemented text processing and an MLP-based classification pipeline.
 
